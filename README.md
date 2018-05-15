@@ -1,6 +1,6 @@
 # Presentation Slides for - HCI in a World of DataScience
 
-[![DOI](https://zenodo.org/badge/4300/sharpic/hci-ds.svg)](http://dx.doi.org/10.5281/zenodo.17646)
+[![DOI](https://zenodo.org/badge/4300/sharpic/hci-ds.svg)](https://doi.org/10.5281/zenodo.17646)
 
 - Slides at: http://sharpic.github.io/hci-ds
 - References at: http://sharpic.github.io/hci-ds/data-storytelling.bib
